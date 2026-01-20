@@ -27,7 +27,7 @@ Additionally, I am conducting research under the supervision of [Prof. Stan Z. L
 
 I am **actively seeking PhD opportunities for Fall 2027**. I welcome discussions regarding potential collaborations or mentorship in the fields of Multimodal Learning and Foundation Models.
 
-📧 My email is [yuxuanluo1117@gmail.com](mailto:yuxuanluo1117@gmail.com)
+📧 My email is **yuxuanluo1117 [at] gmail.com**
 
 
 
