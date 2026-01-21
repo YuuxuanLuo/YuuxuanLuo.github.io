@@ -15,6 +15,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+# 💙 About Me
 <span class='anchor' id='about-me'></span>
 
 I am a third-year undergraduate student at **Zhejiang University**, majoring in **Computer Science and Technology**. I am also a member of the Mixed Class within **Chu Kochen Honors College (CKC)**.
