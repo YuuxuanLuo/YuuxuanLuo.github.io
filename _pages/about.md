@@ -22,9 +22,9 @@ I am a third-year undergraduate student at **Zhejiang University**, majoring in 
 
 My research interests primarily lie in the fields of **Multimodal Models** and **Generative AI**.
 
-Currently, I am fortunate to be advised by [Prof. Xi Li](https://person.zju.edu.cn/xilics#0) at Zhejiang University, where I worked on **Video Editing Models** by exploring **Generative AI** and the **controllability of visual content**.
+Currently, I am fortunate to be advised by [Prof. Xi Li](https://person.zju.edu.cn/en/xilics) at Zhejiang University, where I worked on **Video Editing Models** by exploring **Generative AI** and the **controllability of visual content**.
 
-Additionally, I am conducting research under the supervision of [Prof. Stan Z. Li](https://www.westlake.edu.cn/faculty/stan-zq-li.html) at Westlake University. My work here focuses on **Video Detection**, aiming to improve the robustness and accuracy of visual perception in dynamic scenes.
+Additionally, I am conducting research under the supervision of [Prof. Stan Z. Li](https://en.westlake.edu.cn/faculty/stan-zq-li.html) at Westlake University. My work here focuses on **Video Detection**, aiming to improve the robustness and accuracy of visual perception in dynamic scenes.
 
 I am **actively seeking PhD opportunities for Fall 2027**. I welcome discussions regarding potential collaborations or mentorship in the fields of Multimodal Learning and Foundation Models.
 
