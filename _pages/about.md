@@ -57,7 +57,7 @@ To be continue...
 
 **2025.12 - Present**
 
-**Advisor: [Prof. Xi Li](https://person.zju.edu.cn/xilics)**
+**Advisor: [Prof. Xi Li](https://person.zju.edu.cn/en/xilics)**
 </div>
 </div>
 
@@ -69,7 +69,7 @@ To be continue...
 
 **2025.10 - Present**
 
-**Advisor: [Prof. Stan Z. Li](https://www.westlake.edu.cn/faculty/stan-zq-li.html)**
+**Advisor: [Prof. Stan Z. Li](https://en.westlake.edu.cn/faculty/stan-zq-li.html)**
 </div>
 </div>
 
@@ -81,7 +81,7 @@ To be continue...
 
 **2024.12 - 2025.7**
 
-**Advisor: [Prof. Weitao You](https://person.zju.edu.cn/ywt)**
+**Advisor: [Prof. Weitao You](https://person.zju.edu.cn/en/ywt)**
 </div>
 </div>
 
