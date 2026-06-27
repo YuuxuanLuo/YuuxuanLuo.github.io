@@ -55,6 +55,10 @@
         display: flex;
         width: 100%;
         order: 2;
+        .paper-thumb {
+            position: relative;
+            width: 100%;
+        }
         img {
             max-width: 400px;
             box-shadow: 3px 3px 6px #888;
@@ -97,13 +101,107 @@ h1:before, .anchor:before {
     margin-top: -$scroll_offset;
 }
 
-.badge {
-    padding-left: 1rem;
-    padding-right: 1rem;
+.venue-badge {
     position: absolute;
-    margin-top: .5em;
-    margin-left: -.5em;
+    top: .85rem;
+    left: -.45rem;
+    display: inline-flex;
+    align-items: stretch;
+    overflow: hidden;
     color: white;
-    background-color: #00369f;
-    font-size: .8em;
+    font-family: $global-font-family;
+    font-style: italic;
+    font-weight: 700;
+    line-height: 1;
+    border-radius: 4px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, .18);
+
+    span,
+    strong {
+        display: inline-block;
+        padding: .48rem .66rem;
+    }
+
+    span {
+        background: #1f4f99;
+        font-size: .94rem;
+        letter-spacing: 0;
+    }
+
+    strong {
+        background: #b3261e;
+        font-size: .82rem;
+        font-style: italic;
+        letter-spacing: 0;
+        text-transform: none;
+    }
+}
+
+.badge {
+    @extend .venue-badge;
+    padding: .48rem .66rem;
+    background: #1f4f99;
+    font-size: .94rem;
+}
+
+.paper-title {
+    margin-bottom: .45em;
+    color: #1f2937;
+    font-family: $sans-serif;
+    font-size: 1.08em;
+    font-weight: 700;
+    line-height: 1.35;
+}
+
+.paper-authors {
+    margin-bottom: .25em;
+}
+
+.paper-note {
+    margin-bottom: .7em;
+    color: #666;
+    font-size: .82em;
+}
+
+.paper-links {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: .55rem;
+    margin-bottom: .7em;
+}
+
+.page__content .paper-link {
+    display: inline-block;
+    padding: .22rem .45rem;
+    color: #1f4f99;
+    font-family: $sans-serif;
+    font-size: .88em;
+    font-weight: 700;
+    line-height: 1.2;
+    text-decoration: none;
+    border-bottom: 1px solid #98a2b3;
+    border-radius: 0;
+    background: transparent;
+
+    &:before {
+        content: "[";
+        margin-right: .18rem;
+        color: #1f4f99;
+        font-weight: 500;
+    }
+
+    &:after {
+        content: "]";
+        margin-left: .18rem;
+        color: #1f4f99;
+        font-weight: 500;
+    }
+
+    &:hover {
+        color: #1f4f99;
+        text-decoration: none;
+        border-bottom-color: #1f4f99;
+        background: transparent;
+    }
 }
