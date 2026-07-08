@@ -44,7 +44,7 @@ I am **actively seeking PhD opportunities for Fall 2027**. I welcome discussions
 
 <div class="paper-links">
   <a class="paper-link" href="https://github.com/yuchang97/GFG-public">Code</a>
-  <a class="paper-link" href="https://openreview.net/pdf?id=IYSBJvVRTx">Paper</a>
+  <a class="paper-link" href="https://openreview.net/forum?id=IYSBJvVRTx">Paper</a>
   <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
